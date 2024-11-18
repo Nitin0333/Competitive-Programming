@@ -1,0 +1,18 @@
+[
+	{
+		"correct_answers":
+		[
+			"0\n5\n0\n7"
+		],
+		"test": "4\n5 2\nnn\naa\nrr\nee\nkk\n1 5\nnarek\n1 4\nnare\n5 7\nnrrarek\nnrnekan\nuuuuuuu\nppppppp\nnkarekz\n"
+	},
+	{
+		"test": "1\n2 7\nazekynr\nnzaryek\n"
+	},
+	{
+		"test": "3 5\nnarek\nanrek\nanrek"
+	},
+	{
+		"test": "1\n3 5\nnarek\nanrek\nanrek\n"
+	}
+]

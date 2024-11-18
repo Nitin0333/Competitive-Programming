@@ -1,0 +1,38 @@
+[
+	{
+		"correct_answers":
+		[
+			"YES\nNO\nYES\nYES\nNO"
+		],
+		"test": "5\n2\n11\n3\n010\n12\n101111111100\n10\n0111111011\n8\n01000010\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES",
+			"NO"
+		],
+		"test": "1\n4\n0110\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "1\n5\n01110\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "1\n7\n1011011\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "1\n4\n1000\n"
+	}
+]
