@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"v"
+		],
+		"test": ".v.\n"
+	},
+	{
+		"correct_answers":
+		[
+			"chokudai"
+		],
+		"test": "chokudai\n"
+	},
+	{
+		"correct_answers":
+		[
+			""
+		],
+		"test": "...\n"
+	}
+]

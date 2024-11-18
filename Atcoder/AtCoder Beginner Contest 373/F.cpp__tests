@@ -1,0 +1,1 @@
+[{"correct_answers": ["5"], "test": "2 10\n3 4\n3 2\n"}, {"correct_answers": ["14"], "test": "3 6\n1 4\n2 3\n2 7\n"}, {"correct_answers": ["12"], "test": "1 10\n1 7\n"}]
